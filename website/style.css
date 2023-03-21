@@ -1,0 +1,563 @@
+nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+nav img {
+  margin-right: 10px;
+}
+
+nav img.last {
+  margin-left: 305px;
+}
+
+nav .mobile-number {
+  color: white;
+}
+
+nav .a {
+  background-color: rgb(21, 241, 35);
+}
+
+nav .a {
+  margin-left: 10px;
+}
+
+nav .war {
+  margin-left: 30px;
+}
+
+.nav {
+  padding: 10000px 0;
+}
+
+
+nav .b {
+  margin-left: 180px;
+}
+
+
+nav .c {
+  margin-left: 20px;
+}
+
+nav .d {
+  margin-left: 20px;
+}
+
+nav .e {
+  margin-left: 20px;
+}
+
+nav .f {
+  margin-left: 20px;
+}
+
+nav .g {
+  margin-left: 20px;
+}
+
+
+nav .h {
+  margin-left: 20px;
+}
+
+
+nav .i {
+  margin-left: 10px;
+}
+
+
+
+
+.carousel-caption h1,
+.carousel-caption p {
+  color: white;
+
+}
+
+a .wa {
+  margin-left: 41%;
+  padding: 0.5px;
+}
+
+.image-container img {
+
+  margin-left: 110px;
+  /* adds 10 pixels of space between images */
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* our advantages */
+/* gallery display */
+.photos {
+  /* display: block; */
+  display: flex;
+  margin-right: 10;
+  margin-top: 29;
+}
+
+.photos ul {
+  list-style: none;
+
+}
+
+.photos ul li {
+  display: inline;
+  list-style: none;
+  float: left;
+  padding: 0 10px 0 0;
+  text-align: center;
+}
+
+.photos ul li span a {
+  background-color: #fff;
+}
+
+.photos ul li a {
+  display: flex;
+  display: block;
+
+  margin-right: 23;
+  margin-bottom: 10px;
+   opacity: 0.75;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+.photos ul li a:hover {
+  opacity: 1.0;
+}
+
+.photos ul li a img {
+  border: 6px solid #e1d9ec;
+}
+
+
+a .ward {
+  margin-left: 43%;
+  padding: 2 px;
+}
+
+/* about us */
+#article {
+  width: 650px;
+  min-height: 280px;
+  margin: 20px;
+  background-color: #e1d9ec;
+}
+
+
+#article p {
+  font-size: .8em;
+  /* line-height: 1.6em; */
+  margin-left: 50px;
+  margin-right: 100px;
+  background-color: #e1d9ec;
+}
+
+#win {
+  position: relative;
+  left: 400px;
+  margin-left: 60px;
+  top: auto;
+  float: right;
+  background-color: #e1d9ec;
+}
+
+/* about us end */
+
+
+/* our skills */
+a .warda {
+  margin-left: 43%;
+  align-items: center;
+  padding: 4 px;
+
+}
+
+a p.hihi {
+  font-size: small;
+  margin-left: 250px;
+}
+
+/* gallery display */
+.pics {
+  /* display: block; */
+  display: flex;
+  margin-right: 10;
+  margin-top: 29;
+}
+
+.pics ul {
+  list-style: none;
+
+}
+
+.pics ul li {
+  display: inline;
+  list-style: none;
+  float: left;
+  padding: 0 10px 0 0;
+  text-align: center;
+}
+
+.pics ul li span a {
+  background-color: #fff;
+}
+
+.pics ul li a {
+  display: flex;
+  display: block;
+
+  margin-right: 23;
+  margin-bottom: 10px;
+   opacity: 0.75;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+.pics ul li a:hover {
+  opacity: 1.0;
+}
+
+pics ul li a img {
+  border: 6px solid #e1d9ec;
+}
+
+
+a .ward {
+  margin-left: 43%;
+  padding: 2 px;
+}
+
+/* our skills end */
+
+
+/* footer */
+#container p {
+  font-size: .8em;
+  /* line-height: 1.6em; */
+  /* margin-left: 50px ; */
+  margin-right: 1500px;
+  background-color: rgb(93, 147, 12);
+}
+
+#dog {
+  width: 98%;
+  min-height: 280px;
+  margin: 20px;
+  background-color: rgb(105, 165, 14);
+}
+
+/* footer end                                         */
+
+
+/* about us end */
+
+/* OUR SEVICES */
+.services {
+  margin-left: 43%;
+}
+
+#text {
+  color: grey;
+  margin-left: 15%;
+  padding: 0%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.34);
+  border-radius: 10px;
+}
+
+.web {
+  margin-left: 13%;
+}
+
+.read {
+  color: green;
+  margin-left: 22%;
+}
+
+.graphic {
+  margin-left: 13%;
+}
+
+.Branding {
+  margin-left: 13%;
+}
+
+.marketing {
+
+  margin-left: 13%;
+}
+
+
+/* OUR SERVICES END */
+
+                     /* START YOUR NEW  PROJECT  */
+
+.hen{
+color: white;
+margin-left: 30%;
+}
+           
+           .hi{
+             
+               background-color: greenyellow;
+              
+           }
+           .shy{
+               color: rgb(209, 203, 203);
+               margin-left:10%;
+               border-color: white;
+           }
+           
+           #is{
+               background-color: orange;
+               color: black;
+               border-color: orange;
+               margin-left: 10% ;
+           }
+           .lorem{
+            color: white;
+            margin-left:30% ;
+            margin-right: 30%;
+           }
+                            /* START YOUR NEW  PROJECT END */
+           
+                             /* OUR CONTACTS  */
+.ou{
+  color: black;
+  margin-left: 40%;
+}
+.con{
+  color: rgb(37, 221, 37);
+}
+.shu{
+  color: rgb(194, 194, 194);
+  margin-left: 25%;
+}
+#res{
+  display: flex;
+}
+.cow{
+  margin-left: 200px;
+}
+.co{
+  margin-left: 100px;
+}
+.oc{
+  margin-left: 100px;
+}
+.qw{
+  margin-left: 150px;
+}
+
+                                     /* OUR CONTACTS ENDS  */
+
+
+
+                                                    /* PEOPLE ABOUT US */
+
+.zoo{
+  background-color: rgb(230, 229, 229);
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.ora{
+  color: black;
+  margin-left: 38%;
+}
+.oran{
+  color: rgb(91, 147, 7);
+  
+}
+.pogo{
+  color: grey;
+  margin-left: 150px;
+  margin-right:150px;
+}
+
+.fan{
+  margin-left: 10%;
+}
+
+#sid{
+  margin-right: 8%;
+}
+#sidr{
+  margin-right: 8%;
+}
+#sidra{
+  margin-right: 8%;
+}
+#sidraa{
+  margin-right: 8%;
+}
+
+                             /* PEOPLE ABOUT US END */
+
+                             /* OUR PROCESS */
+                    
+
+                           .donk {
+
+    color: green;
+}
+
+.dont {
+    margin-left: 43%;
+}
+
+.do1 {
+    color: grey;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    display: inline-block;
+    margin-right: 60px;
+    margin-left: 20px;
+    background-size: cover
+  }
+
+  .circle1 {
+    background-image: url('https://th.bing.com/th/id/R.e85b14529aeeb37f3337862411d8f570?rik=%2fkBy7%2bPPTYS%2b2Q&riu=http%3a%2f%2fbaimairareang.com%2fimg%2ficon-green-call.png&ehk=fQ3YfuSoPX2JGOUrSFK3hPpKL7pqEk5HIzbYo4Pveww%3d&risl=&pid=ImgRaw&r=0');
+    background-color: grey;
+  }
+
+  .circle2 {
+    background-image: url('https://th.bing.com/th/id/R.49d7830e1d77d5e787a3020d06220a4f?rik=yOvgEMkI01G%2bOA&pid=ImgRaw&r=0');
+
+  }
+
+  .circle3 {
+    background-image: url('https://th.bing.com/th/id/OIP.1khwpYs3ltzVZzxShr4ywAHaHY?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+  }
+
+  .circle4 {
+    background-image: url('https://th.bing.com/th/id/OIP.UT7opy9HehDei4G8eG9wjQAAAA?w=179&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+  }
+
+  .circle5 {
+    background-image: url('https://th.bing.com/th/id/OIP.of7S5JaImfcQGS6bNrqmKgHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+  }
+
+  .circle6 {
+    background-image: url('https://th.bing.com/th/id/OIP.MyRB_Ozw9jSGnRnl7rSGfAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+  }
+
+                             .donk {
+
+                              color: green;
+                          }
+                          
+                          .dont {
+                              margin-left: 43%;
+                          }
+                          
+                          .do1 {
+                              color: grey;
+                              margin-left: 20%;
+                              margin-right: 20%;
+                          }
+                          
+                          .circle {
+                              width: 100px;
+                              height: 100px;
+                              border-radius: 100%;
+                              display: inline-block;
+                              margin-right: 60px;
+                              margin-left: 20px;
+                              background-size: cover
+                            }
+                          
+                            .circle1 {
+                              background-image: url('https://th.bing.com/th/id/R.e85b14529aeeb37f3337862411d8f570?rik=%2fkBy7%2bPPTYS%2b2Q&riu=http%3a%2f%2fbaimairareang.com%2fimg%2ficon-green-call.png&ehk=fQ3YfuSoPX2JGOUrSFK3hPpKL7pqEk5HIzbYo4Pveww%3d&risl=&pid=ImgRaw&r=0');
+                              background-color: grey;
+                            }
+                          
+                            .circle2 {
+                              background-image: url('https://th.bing.com/th/id/R.49d7830e1d77d5e787a3020d06220a4f?rik=yOvgEMkI01G%2bOA&pid=ImgRaw&r=0');
+                          
+                            }
+                          
+                            .circle3 {
+                              background-image: url('https://th.bing.com/th/id/OIP.1khwpYs3ltzVZzxShr4ywAHaHY?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+                            }
+                          
+                            .circle4 {
+                              background-image: url('https://th.bing.com/th/id/OIP.UT7opy9HehDei4G8eG9wjQAAAA?w=179&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+                            }
+                          
+                            .circle5 {
+                              background-image: url('https://th.bing.com/th/id/OIP.of7S5JaImfcQGS6bNrqmKgHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+                            }
+                          
+                            .circle6 {
+                              background-image: url('https://th.bing.com/th/id/OIP.MyRB_Ozw9jSGnRnl7rSGfAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+                            }
+                          
+                           
+                             /* OUR PROCESS END*/
+
+                             
+                              /* OUR PORTFOLIO  */
+.queen{
+  background-color: black;
+  
+}
+.queen12{
+  color: white;
+  margin-left: 45%;
+}
+.queen1{
+  color: green;
+}
+.love{
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.haha{
+  display: flex;
+  background-color: black;
+}
+.rainbow{
+  color: white;
+  margin-left: 5%;
+}
+.tre{
+  margin-left:60%;
+}
+.sorry{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+                                  /* OUR PORTFOLIO END */
+                    
